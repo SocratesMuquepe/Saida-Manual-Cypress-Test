@@ -1,0 +1,17 @@
+{
+  "name": "saida-manual-cypress-test",
+  "version": "1.0.0",
+  "description": "Projecto de teste da Saida Manual com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "AGT - GTI - Dev. FrontEnd",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
